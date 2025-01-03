@@ -9,7 +9,7 @@ A sleek and modern front-end template designed to kickstart your web development
 - Cross-browser compatibility
 
 ## Demo
-Check out the live demo: [Demo](https://mohammedbasiouny.github.io/HTML-CSS-Design)
+Check out the live demo: [Demo](https://mohammedbasiouny.github.io/Modern-Front-End-Template)
 
 ## Usage
 1. Clone the repository:
