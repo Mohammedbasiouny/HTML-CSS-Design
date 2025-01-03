@@ -2,4 +2,4 @@
 First Front-End Template
 
 Demo
-http://mohamedbasiouny.me/HTML-CSS-Template-1/
+https://mohammedbasiouny.github.io/HTML-CSS-Design
